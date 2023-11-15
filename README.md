@@ -4,5 +4,5 @@
 
 <p align="center"> 
   Visitor count</br>
-  <img src="https://profile-counter.glitch.me/solstice23/count.svg" />
+  <img src="https://profile-counter.glitch.me/wuliao2019/count.svg" />
 </p>
