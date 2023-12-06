@@ -10,5 +10,5 @@
   
   <!-- profile logo 个人资料徽标 -->
   <a href="https://space.bilibili.com/44778675"><img alt="Static Badge" src="https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=F4F4F4"></a>&emsp;
-  <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+  <a href="https://space.bilibili.com/44778675"><img alt="Static Badge" src="https://img.shields.io/badge/Bilibili-FB7299?style=flat&logo=bilibili&logoColor=F4F4F4"></a>&emsp;
 </div>
