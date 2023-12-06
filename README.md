@@ -1,6 +1,6 @@
 <div align="center">
   <img max-height="160" src="https://card.yuy1n.io/card/76561198267381956/dark,en,badge,group,badges,games,screenshots">
-  <img height="140" src="https://stats.justsong.cn/api/bilibili/?id=44778675&theme=tokyonight"></br>
+  <img height="150" src="https://stats.justsong.cn/api/bilibili/?id=44778675&theme=tokyonight"></br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=wuliao2019&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuliao2019&layout=compact&theme=tokyonight" height="160"/></br>
