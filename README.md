@@ -16,9 +16,8 @@
 </p>
 
 <!-- profile logo 个人资料徽标 -->
-<div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=F4F4F4&link=https%3A%2F%2Fspace.bilibili.com%2F44778675">
-
+<div align="center">
+  <a href="https://space.bilibili.com/44778675"><img alt="Static Badge" src="https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=F4F4F4"></a>&emsp;
   <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
   <!-- visitor statistics logo 访问量统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
