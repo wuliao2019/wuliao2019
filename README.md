@@ -1,8 +1,9 @@
 <div align="center">
-  <img height="120" src="https://card.yuy1n.io/card/76561198267381956/dark,en,badge,group,badges,games,screenshots">
+  <img height="160" src="https://card.yuy1n.io/card/76561198267381956/dark,en,badge,group,badges,games,screenshots">
+
   
-  <img src="https://github-readme-stats.vercel.app/api?username=wuliao2019&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuliao2019&layout=compact&theme=tokyonight" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wuliao2019&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuliao2019&layout=compact&theme=tokyonight" height="160"/>
   
   Visitor count</br>
   <img src="https://profile-counter.glitch.me/wuliao2019/count.svg" />
