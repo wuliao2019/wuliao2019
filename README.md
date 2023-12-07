@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wuliao2019&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuliao2019&layout=compact&theme=tokyonight" height="160"/></br>
   
-  Visitor count</br>
+  <h3>Visitor count</h3>
   <img src="https://profile-counter.glitch.me/wuliao2019/count.svg" />
 
   <h3>Languages and Tools:</h3>
